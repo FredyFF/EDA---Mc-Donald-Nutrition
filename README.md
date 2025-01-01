@@ -1,4 +1,4 @@
-## EDA Mc-Donald-Nutrition
+## EDA McDonald-Nutrition
 Exploratory Data Analysis (EDA) about Mc Donald Nutrition Menu
 
 I have explored the McDonald's dataset to find the answers for the following questions:
